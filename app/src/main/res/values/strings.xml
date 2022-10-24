@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RestaurantChoices</string>
+    <string-array name="restaurants">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Broast</item>
+        <item>Shawarma</item>
+        <item>Mandy</item>
+    </string-array>
 </resources>
